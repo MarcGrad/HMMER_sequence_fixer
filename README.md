@@ -5,7 +5,7 @@ please msg me if want help me upgrade script!
 
 restrictions: works only with uniprot id, only fasta format
 
-This simple script can help fix  :construction_worker: phmmer, jackhmmer cut up  :scissors: sequence domains or with Pfam unaligned fasta 
+This simple script can help fix  :construction_worker: phmmer, jackhmmer cut up  :scissors: sequences domains or with Pfam unaligned fasta 
 example: https://pfam.xfam.org/family/PF07804/alignment/rp15/format?format=fasta&alnType=rp15&order=t&case=u&gaps=none&download=0
 
 how to use: 

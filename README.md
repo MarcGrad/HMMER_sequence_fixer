@@ -1,4 +1,4 @@
-# HMMER_sequence_fixer v3
+# HMMER_sequence_fixer v3 :octocat:
 this is still preliminary version
 please msg me if want help me upgrade script!
 

@@ -1,5 +1,6 @@
 # HMMER_sequence_fixer v3 
 This is still preliminary version :octocat:
+
 please msg me if want help me upgrade script!
 
 restrictions: works only with uniprot id, only fasta format
@@ -18,5 +19,7 @@ If there is any domain duplicate you can skip sequences with domain duplicates, 
 NEED python3 :snake:
 
 requirements (libaries):
+
 requests (2.21.0)
+
 Bio (1.73)

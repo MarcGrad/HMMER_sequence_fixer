@@ -13,7 +13,7 @@ how to use:
 2. enter sequences you want to skip
 3. run! :running:
 
-If there is any domain duplicate you can skip sequences with domain duplicates, by giving sequence id in list 'which_sequence_to_skip' 
+If there is any domain duplicate you can skip this sequences, by giving sequence id in list 'which_sequence_to_skip' 
 (soon it will be upgraded)
 
 NEED python3 :snake:

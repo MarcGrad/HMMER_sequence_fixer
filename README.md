@@ -1,5 +1,5 @@
-# HMMER_sequence_fixer v3 :octocat:
-this is still preliminary version
+# HMMER_sequence_fixer v3 
+This is still preliminary version :octocat:
 please msg me if want help me upgrade script!
 
 restrictions: works only with uniprot id, only fasta format
